@@ -1,5 +1,5 @@
 <h1 align="center">
-	Xen Minimal OcUK Theme
+	Xen Minimal Dark OcUK Theme
 </h1>
 
 <h3 align="center">
