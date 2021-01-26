@@ -1889,4 +1889,13 @@ A:hover {
 .formPopup .primaryControls input.textCtrl {
     width: 70px;
 }
+    .navTabs .navLink, 
+.navTabs .SplitCtrl,
+#headerMover #headerProxy,
+#header,
+.PageNav,
+.breadBoxTop, 
+.breadBoxBottom {
+    background-color: transparent;
+}
 }
