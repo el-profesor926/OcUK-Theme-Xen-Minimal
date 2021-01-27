@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           OcUK-Theme-Xen-Minimal-Dark
 @namespace      https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-Dark
-@version        1.0.2
+@version        1.0.3
 @description    A dark minimal style theme for ocuk forums
 @author         Sean Mayes
 
@@ -1910,4 +1910,9 @@ A:hover {
 .breadBoxBottom {
     background-color: transparent;
 }
+
+/* Fixed Deleted Post Colour */
+.deleted .primaryContent {
+ background-color: #373f44;
+    }
 }
