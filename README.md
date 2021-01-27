@@ -45,8 +45,7 @@ If you have an issue, change request or comment about this theme please report i
 
 
 ## Notes
-To use these themes you will need the Stylus/Stylish browser extension for your chosen browser or forks of listed browsers <br />
-(vivaldi, palemoon etc):
+To use these themes you will need the Stylus/Stylish browser extension for your chosen browser or forks of listed browsers (vivaldi, palemoon etc):
 
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/styl-us/">Firefox</a>
 •
