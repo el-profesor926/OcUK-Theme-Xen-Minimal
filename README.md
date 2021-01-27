@@ -50,9 +50,9 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 <a href="http://sobolev.us/stylish/">Safari</a>
 
 ## Installation
-> Once you have the Stylus browser extention installed instructions above. 
-> click the "Install directly with Stylus" icon at the top of this page.
-> Enable it in the Stylus/Stylish extension if it isn't already.
+> Once you have the Stylus browser extention installed instructions above. <br />
+> click the "Install directly with Stylus" icon at the top of this page. <br />
+> Enable it in the Stylus/Stylish extension if it isn't already. <br />
 > Load the ocuk forum and the layout should have changed.
 
 ## Issues
