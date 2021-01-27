@@ -31,7 +31,7 @@
 	<img src="Screenshot.png" alt="Screenshot of the theme">
 </p>
 
-## Description
+## Description :sparkles:
 A green and grey polished minimal theme for OcUK xenforo forums. Pixel perfect.
 
 If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.com
@@ -40,7 +40,7 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Date Created</b> - March 4, 2017<br/>
 <b>Applies To</b> - overclockers
 
-## Notes
+## Notes :sparkles:
 To use these themes you will need the Stylus/Stylish browser extension for your chosen browser or forks of listed browsers (vivaldi, palemoon etc):
 
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/styl-us/">Firefox</a>
@@ -51,12 +51,12 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 •
 <a href="http://sobolev.us/stylish/">Safari</a>
 
-## Installation
+## Installation :sparkles:
 > Once you have the Stylus browser extention installed instructions above. <br />
 > click the "Install directly with Stylus" icon at the top of this page. <br />
 > Enable it in the Stylus/Stylish extension if it isn't already. <br />
 > Load the ocuk forum and the layout should have changed.
 
-## Issues
+## Issues :sparkles:
 If you have an issue, change request or comment about this theme please report it below:<br/>
 <a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-Dark/issues">/OcUK-Theme-Xen-Minimal-Dark/issues</a>
