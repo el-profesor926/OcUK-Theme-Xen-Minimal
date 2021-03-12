@@ -53,7 +53,7 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 
 ## Installation :sparkles:
 > Once you have the Stylus browser extention installed instructions above. <br />
-> click the "Install directly with Stylus" icon at the top of this page. <br />
+> Click the "Install directly with Stylus" icon at the top of this page. <br />
 > Enable it in the Stylus/Stylish extension if it isn't already. <br />
 > Load the ocuk forum and the layout should have changed.
 
